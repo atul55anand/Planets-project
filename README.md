@@ -1,1 +1,1 @@
-# Planets-project
+# planets-project
